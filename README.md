@@ -10,8 +10,9 @@ To run the EMI Calculator on your Android device:
 Clone the repository:
 bash
 Copy code
-Open the project i![tt](https://github.com/user-attachments/assets/51d8f5e9-5341-442c-ae7d-25f3d71f4eeb)
-n Android Studio.
+Open the project in Android Studio.
 Build and run the app on an Android device or emulator.
 Alternatively, download the APK from the Releases page and install it directly on your device.
 
+
+![pp](https://github.com/user-attachments/assets/1702088a-c01d-431b-a4bb-c72b1096e040)
